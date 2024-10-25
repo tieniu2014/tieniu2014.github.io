@@ -1,6 +1,6 @@
 {
     "title":"铁牛爱经",
-    "subTitle":"铁牛™ 创办于2014年，十年专注于男子「性力」提升教学服务。学习精品课请关注「铁牛」微信公众号",
+    "subTitle":"铁牛™ 创办于2014年，十年间专注于男子「性力」提升教学服务。",
     "avatarUrl":"https://avatars.githubusercontent.com/u/186251792?v=4",
     "GMEEK_VERSION":"last",
     "displayTitle":"Meekdai",
@@ -18,8 +18,9 @@
     "urlMode":"pinyin",
     "showPostSource":1,
     "rssSplit":"sentence",
-    "bottomText":"转载请注明出处",
+    "bottomText":"本页面内容最终解释权归铁牛™所有",
     "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
-    "needComment":0
+    "needComment":"0",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
 }
