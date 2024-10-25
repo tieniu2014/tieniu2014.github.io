@@ -1,26 +1,6 @@
 {
     "title":"铁牛爱经",
-    "subTitle":"铁牛™ 创办于2014年，十年间专注于男子「性力」提升教学服务。",
+    "subTitle":"铁牛™创办于2014年，十年间专注于男子「性力」提升教学服务。",
     "avatarUrl":"https://avatars.githubusercontent.com/u/186251792?v=4",
-    "GMEEK_VERSION":"last",
-    "displayTitle":"Meekdai",
-    "homeUrl":"https://tieniu2014.github.io",
-    "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "startSite":"09/19/2014",
-    "onePageListNum":15,
-    "commentLabelColor":"#006b75",
-    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
-    "i18n":"CN",
-    "UTC":8,
-    "themeMode":"manual",
-    "dayTheme":"light",
-    "nightTheme":"dark_colorblind",
-    "urlMode":"pinyin",
-    "showPostSource":1,
-    "rssSplit":"sentence",
-    "bottomText":"本页面内容最终解释权归铁牛™所有",
-    "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
-    "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
-    "needComment":"0",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"
+    "GMEEK_VERSION":"last"
 }
